@@ -20,7 +20,6 @@ import { NaviComponent } from './components/navi/navi.component';
     AppRoutingModule,
     HttpClientModule
   ],
-
   providers: [],
   bootstrap: [AppComponent]
 })
